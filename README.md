@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying Electronics and Communication Engineering at National Insititue of Technology,Hamirpur.
 - 💼 &nbsp; Coordinator at National Level Hackathon, Electrothon 3.0.
 - 🌱 &nbsp; Learning more about Deep Learning & Artificial Intelligence.
-- ✍️ &nbsp;  Hobbies - Writing, Reading novels, watching series.
+- ✍️ &nbsp;  Hobbies - Writing, Reading novels, Watching series.
 
  
 <br/>

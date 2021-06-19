@@ -3,7 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and working on my skills.
-- ✍️ &nbsp; Contributing in GSSOC'21
 - 🎓 &nbsp; Studying Electronics and Communication Engineering at National Insititue of Technology,Hamirpur.
 - 💼 &nbsp; Coordinator at National Level Hackathon, Electrothon 3.0.
 - 🌱 &nbsp; Learning more about Deep Learning & Artificial Intelligence.

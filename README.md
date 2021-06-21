@@ -59,12 +59,7 @@
       </a>
       <br>Google Colab
     </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/atom.svg" width="40"/>
-      </a>
-      <br>Atom
-    </td>
+  
     <td align="center" width="96">
       <a>
         <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>
@@ -83,30 +78,15 @@
       </a>
       <br>Javascript
     </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/bootstrap.svg" width="40"/>
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/unity.svg" width="40"/>
-      </a>
-      <br>Unity
-    </td>
+    
+   
     <td align="center" width="96">
       <a>
         <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/py.svg" width="40"/>
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/ps.svg" width="40"/>
-      </a>
-      <br>Photoshop
-    </td> 
+   
   </tr>
 </table>
 <br>

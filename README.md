@@ -18,6 +18,20 @@
 
 <br/>
 
+## Tech Stack
+
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"/>]()
+
+
+<br>
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
